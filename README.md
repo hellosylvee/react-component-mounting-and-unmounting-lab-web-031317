@@ -43,3 +43,5 @@ That's it! You've finished off the game! Happy pancake-making!
 ## Resources
 
 - [React: Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
+
+- [Stackoverflow:](http://stackoverflow.com/questions/26867535/calling-setstate-in-jsdom-based-tests-causing-cannot-render-markup-in-a-worker)
